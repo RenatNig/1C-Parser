@@ -1,0 +1,16 @@
+C:\Users\renat\source\repos\Diplom1\Diplom1\bin\Release\Diplom1.exe.config
+C:\Users\renat\source\repos\Diplom1\Diplom1\bin\Release\Diplom1.exe
+C:\Users\renat\source\repos\Diplom1\Diplom1\bin\Release\Diplom1.pdb
+C:\Users\renat\source\repos\Diplom1\Diplom1\bin\Release\1Ctest.dll
+C:\Users\renat\source\repos\Diplom1\Diplom1\bin\Release\HtmlAgilityPack.dll
+C:\Users\renat\source\repos\Diplom1\Diplom1\bin\Release\1Ctest.pdb
+C:\Users\renat\source\repos\Diplom1\Diplom1\bin\Release\HtmlAgilityPack.pdb
+C:\Users\renat\source\repos\Diplom1\Diplom1\bin\Release\HtmlAgilityPack.xml
+C:\Users\renat\source\repos\Diplom1\Diplom1\obj\Release\Diplom1.csprojAssemblyReference.cache
+C:\Users\renat\source\repos\Diplom1\Diplom1\obj\Release\Diplom1.csproj.ResolveComReference.cache
+C:\Users\renat\source\repos\Diplom1\Diplom1\obj\Release\Diplom1.Form1.resources
+C:\Users\renat\source\repos\Diplom1\Diplom1\obj\Release\Diplom1.Properties.Resources.resources
+C:\Users\renat\source\repos\Diplom1\Diplom1\obj\Release\Diplom1.csproj.GenerateResource.cache
+C:\Users\renat\source\repos\Diplom1\Diplom1\obj\Release\Diplom1.csproj.CopyComplete
+C:\Users\renat\source\repos\Diplom1\Diplom1\obj\Release\Diplom1.exe
+C:\Users\renat\source\repos\Diplom1\Diplom1\obj\Release\Diplom1.pdb
